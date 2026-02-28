@@ -62,3 +62,4 @@ npm run start
 - **Password changes**:
   - first-time setup (`mustChangePassword=true`) can set a new password
   - normal password change requires the current password
+# TaskForge
